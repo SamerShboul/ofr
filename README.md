@@ -8,13 +8,13 @@ The list is available to download as an RDF file, and is freely available under 
 
 ## Latest Version
 
-The latest version of the registry is `v1.27`. Download the latest release [here](https://github.com/CrossRef/open-funder-registry/releases/latest).
+The latest version of the registry is `v1.28`. Download the latest release [here](https://github.com/CrossRef/open-funder-registry/releases/latest).
 
-Funder count: 21,356.
+Funder count: 21,259.
 
-21,056 active funders, 300 defunct or replaced.
+21,023 active funders, 236 defunct or replaced.
 
-There is one addition to the schema in this release. ISO country codes are now included alongside GeoNames URIs.
+Please note that the total number of funders has gone down in this release. We uncovered an error whereby alt names for some funders were being classed as separate funders. The number of replaced or defunct funders in previous release notes has been higher than the true count in the file. This has now been fixed, and the numbers in the release notes from v1.28 onwards are accurate.
 
 
 A .csv file of the most recent version of the Registry can [also be downloaded](https://doi.crossref.org/funderNames?mode=list) Note that there is no version history at this time for the .csv format.
