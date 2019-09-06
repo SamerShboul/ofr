@@ -8,7 +8,7 @@ The list is available to download as an RDF file, and is freely available under 
 
 ## Latest Version
 
-The latest version of the registry is `v1.28`. Download the latest release [here](https://github.com/CrossRef/open-funder-registry/releases/latest).
+The latest version of the registry is `v1.28`. Download the latest release [here](https://gitlab.com/crossref/open_funder_registry/-/tags).
 
 Funder count: 21,259.
 
