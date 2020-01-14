@@ -8,11 +8,11 @@ The list is available to download as an RDF file, and is freely available under 
 
 ## Latest Version
 
-The latest version of the registry is `v1.29`. Download the latest release [here](https://gitlab.com/crossref/open_funder_registry/-/tags).
+The latest version of the registry is `v1.30`. Download the latest release [here](https://gitlab.com/crossref/open_funder_registry/-/tags).
 
-Funder count: 21,494.
+Funder count: 22,357.
 
-21,253 active funders, 241 defunct or replaced.
+22,108 active funders, 249 defunct or replaced.
 
 
 A .csv file of the most recent version of the Registry can [also be downloaded](https://doi.crossref.org/funderNames?mode=list) Note that there is no version history at this time for the .csv format.
